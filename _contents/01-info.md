@@ -15,7 +15,7 @@ image: ""
   * [Jimmy Ba](http://jimmylba.github.com), Tues 3-4
   * [Bo Wang](https://wanglab.ml/),  Thurs 3-4
 
-* Head TA: Harris Chan
+* Head TA: Harris Chan and John Giorgi
 
 Contact emails:
 

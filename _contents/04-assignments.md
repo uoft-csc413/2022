@@ -8,7 +8,7 @@ image: ""
 
 |           | Handout                | Due
 |-----------|------------------------|---------
-| **Homework 1**   |          | Jan. 15(out), due Jan. 28 
+| **Homework 1**   |  [pdf](assets/assignments/HW01.pdf)        | Jan. 15(out), due Jan. 28 
 | **Programming Assignment 1**   |         | Jan. 22(out), due Feb. 04 
 | **Homework 2**   |          | Jan. 29(out), due Feb. 11
 | **Programming Assignment 2**   |          | Feb. 05(out), due Feb. 18 

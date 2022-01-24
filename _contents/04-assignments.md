@@ -16,7 +16,7 @@ image: ""
 | **Programming Assignment 3**   |       | Feb. 26(out), due Mar. 18
 | **Homework 4**  |    | Mar. 19(out), due Apr. 01
 | **Programming Assignment 4**   |     | Mar. 26(out), due Apr. 08
-| **Course Project**   |       | due Apr. 15
+| **Course Project**   | [handout](assets/misc/project_handout.pdf)      | due Apr. 15
 
 <br/> 
 

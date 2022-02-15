@@ -21,7 +21,7 @@ Suggested readings included help you understand the course material. They are no
 | **Lecture&nbsp;5** | Feb 08  | Interpretability  | [Slides](assets/slides/lec05.pdf)  |  Related papers: [Sanity Check for Saliency Maps](http://papers.nips.cc/paper/8160-sanity-checks-for-saliency-maps.pdf), [SmoothGrad](https://arxiv.org/pdf/1706.03825.pdf), [Towards a rigorous science of interpretable machine learning](https://arxiv.org/pdf/1702.08608.pdf).
 | *Tutorial&nbsp;5* | Feb 08  | How to Write a Good Course Project Report  |  [Slides](assets/tutorials/tut05_writing.pdf)  | 
 | **Midterm Quiz** | Feb 11  |   |  | 
-| **Lecture&nbsp;6** | Feb 15  | Optimization & Generalization  |   |  
+| **Lecture&nbsp;6** | Feb 15  | Optimization & Generalization  | [Slides](assets/slides/lec06.pdf)  |  Roger Grosse’s notes: [Generalization](https://csc413-uoft.github.io/2021/assets/readings/L06a.pdf), [Exploding Vanishing Gradients](https://csc413-uoft.github.io/2021/assets/readings/L06b.pdf). Related papers: [Dropout](https://jmlr.org/papers/v15/srivastava14a.html), [ResNet](https://arxiv.org/abs/1512.03385) |
 | *Tutorial&nbsp;6* | Feb 15  | Best Practices of ConvNet Applications  |  | 
 | **Reading Week** | Feb 22  |   |  | 
 | **Lecture&nbsp;7** | Mar 01  | Recurrent Neural Networks and Attention |   |  

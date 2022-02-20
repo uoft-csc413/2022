@@ -6,6 +6,7 @@ subheading: Announcements&#58;
 image: ""
 ---
  - **Feb 6**: Homework 3 [handout](assets/assignments/HW03.pdf) is due Mar 11th.
+ - **Feb 6**: Homework 3 [handout](assets/assignments/HW03.pdf) is released.
  - **Feb 11**: Programming Assignment 2 [handout](assets/assignments/PA02.pdf) and the [starter code](https://colab.research.google.com/github/uoft-csc413/2022/blob/master/assets/assignments/a2-code.ipynb) updated to Version 1.4.
  - **Feb 6**: Homework 2 [handout](assets/assignments/HW02.pdf) updated to Version 1.1.
  - **Feb 5**: Programming Assignment 2 [handout](assets/assignments/PA02.pdf) and the [starter code](https://colab.research.google.com/github/uoft-csc413/2022/blob/master/assets/assignments/a2-code.ipynb) are now online. Make sure you create a copy in your own Drive before making edits, or else the changes will not be saved.

@@ -12,7 +12,7 @@ image: ""
 | **Programming Assignment 1**   | [starter code](https://colab.research.google.com/github/uoft-csc413/2022/blob/master/assets/assignments/a1-code.ipynb)(make a copy in your own Drive), [pdf](assets/assignments/PA01.pdf)  | Jan. 22(out), due Feb. 04 
 | **Homework 2**   |  [pdf](assets/assignments/HW02.pdf)       | Jan. 29(out), due Feb. 11
 | **Programming Assignment 2**   | [starter code](https://colab.research.google.com/github/uoft-csc413/2022/blob/master/assets/assignments/a2-code.ipynb)(make a copy in your own Drive), [pdf](assets/assignments/PA02.pdf)         | Feb. 05(out), due Feb. 18 
-| **Homework 3**   |         | Feb. 19(out), due Mar. 11 
+| **Homework 3**   |   [pdf](assets/assignments/HW03.pdf)      | Feb. 19(out), due Mar. 11 
 | **Programming Assignment 3**   |       | Feb. 26(out), due Mar. 18
 | **Homework 4**  |    | Mar. 19(out), due Apr. 01
 | **Programming Assignment 4**   |     | Mar. 26(out), due Apr. 08

@@ -5,6 +5,7 @@ heading: Announcements
 subheading: Announcements&#58;
 image: ""
 ---
+  - **Feb 27**: Programming Assignment 3 [handout](assets/assignments/PA03.pdf) and the starter code ([nmt.ipynb](https://colab.research.google.com/github/uoft-csc413/2022/blob/master/assets/assignments/nmt.ipynb), [bert.ipynb](https://colab.research.google.com/github/uoft-csc413/2022/blob/master/assets/assignments/bert.ipynb) and [clip.ipynb](https://colab.research.google.com/github/uoft-csc413/2022/blob/master/assets/assignments/clip.ipynb)) are now online. Make sure you create a copy in your own Drive before making edits, or else the changes will not be saved.
  - **Feb 6**: Homework 3 [handout](assets/assignments/HW03.pdf) is due Mar 11th.
  - **Feb 6**: Homework 3 [handout](assets/assignments/HW03.pdf) is released.
  - **Feb 11**: Programming Assignment 2 [handout](assets/assignments/PA02.pdf) and the [starter code](https://colab.research.google.com/github/uoft-csc413/2022/blob/master/assets/assignments/a2-code.ipynb) updated to Version 1.4.

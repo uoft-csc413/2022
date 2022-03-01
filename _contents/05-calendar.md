@@ -24,7 +24,7 @@ Suggested readings included help you understand the course material. They are no
 | **Lecture&nbsp;6** | Feb 15  | Optimization & Generalization  | [Slides](assets/slides/lec06.pdf)  |  Roger Grosse’s notes: [Generalization](https://csc413-uoft.github.io/2021/assets/readings/L06a.pdf), [Exploding Vanishing Gradients](https://csc413-uoft.github.io/2021/assets/readings/L06b.pdf). Related papers: [Dropout](https://jmlr.org/papers/v15/srivastava14a.html), [ResNet](https://arxiv.org/abs/1512.03385) |
 | *Tutorial&nbsp;6* | Feb 15  | Best Practices of ConvNet Applications  | [Slides](assets/tutorials/tutorial_6_best_practices_convnet_applications.pdf) | 
 | **Reading Week** | Feb 22  |   |  | 
-| **Lecture&nbsp;7** | Mar 01  | Recurrent Neural Networks and Attention |   |  
+| **Lecture&nbsp;7** | Mar 01  | Recurrent Neural Networks and Attention | [Slides](assets/slides/lec07.pdf)  |  Roger Grosse's notes: [RNNs](assets/readings/L07a.pdf), [Exploding Vanishing Gradients](assets/readings/L07b.pdf). Related papers: [LSTM](https://www.bioinf.jku.at/publications/older/2604.pdf), [ResNet](https://arxiv.org/abs/1512.03385), [Neural machine translation](https://arxiv.org/pdf/1409.0473), [Show, attend and tell](https://arxiv.org/abs/1502.03044).
 | *Tutorial&nbsp;7* | Mar 01  | Recurrent Neural Networks  | |  | 
 | **Lecture&nbsp;8** | Mar 08  | Transformers and Autoregressive Models|    |  
 | *Tutorial&nbsp;8* | Mar 08  | NLP and Transformers  |  | 

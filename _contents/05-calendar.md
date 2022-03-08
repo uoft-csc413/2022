@@ -26,7 +26,7 @@ Suggested readings included help you understand the course material. They are no
 | **Reading Week** | Feb 22  |   |  | 
 | **Lecture&nbsp;7** | Mar 01  | Recurrent Neural Networks and Attention | [Slides](assets/slides/lec07.pdf)  |  Roger Grosse's notes: [RNNs](assets/readings/L07a.pdf), [Exploding Vanishing Gradients](assets/readings/L07b.pdf). Related papers: [LSTM](https://www.bioinf.jku.at/publications/older/2604.pdf), [ResNet](https://arxiv.org/abs/1512.03385), [Neural machine translation](https://arxiv.org/pdf/1409.0473), [Show, attend and tell](https://arxiv.org/abs/1502.03044).t
 | *Tutorial&nbsp;7* | Mar 01  | Recurrent Neural Networks  | [Colab](https://colab.research.google.com/drive/1lv41hdSfdNj_LzlCvQbNNrFMfSeIKcFv?usp=sharing) | |
-| **Lecture&nbsp;8** | Mar 08  | Transformers and Autoregressive Models|    |  
+| **Lecture&nbsp;8** | Mar 08  | Transformers and Autoregressive Models| [Slides](assets/slides/lec08.pdf)   |  Related papers: [Transformers](https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf), [BERT pre-training](https://arxiv.org/pdf/1810.04805.pdf), [PixelRNNs](https://arxiv.org/abs/1601.06759), [WaveNet](https://arxiv.org/abs/1609.03499), [PixelCNNs](https://arxiv.org/abs/1606.05328).
 | *Tutorial&nbsp;8* | Mar 08  | NLP and Transformers  | [Slides](assets/tutorials/tut08_nlp_and_transformers.pdf) | 
 | **Lecture&nbsp;9** | Mar 15  | Reversible Models & Generative Adversarial Networks  |  |  
 | *Tutorial&nbsp;9* | Mar 15  | Information Theory  |  | 

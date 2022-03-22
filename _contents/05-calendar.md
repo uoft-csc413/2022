@@ -31,7 +31,7 @@ Suggested readings included help you understand the course material. They are no
 | **Lecture&nbsp;9** | Mar 15  | Reversible Models & Generative Adversarial Networks  | [Slides](assets/slides/lec09.pdf) |  Related papers: [Generative adversarial networks](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), [CycleGANs](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf), [RealNVP](https://arxiv.org/abs/1605.08803).  
 | *Tutorial&nbsp;9* | Mar 15  | Information Theory  | [Slides](assets/tutorials/tut09_info_theory.pdf) | 
 | **Lecture&nbsp;10** | Mar 22  | Generative Models & Reinforcement Learning | [Slides](assets/slides/lec10.pdf) |  Related papers: [RealNVP](https://arxiv.org/abs/1605.08803), [Variational Auto-encoder](https://arxiv.org/abs/1312.6114), [Policy Gradients for Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/PetersSchaal-policy-gradient-for-robotics_IROS2006.pdf), [Proximal Policy Optimization Algorithm](https://arxiv.org/pdf/1707.06347.pdf).
-| *Tutorial&nbsp;10* | Mar 22  | Generative Adversarial Networks  |  | 
+| *Tutorial&nbsp;10* | Mar 22  | Generative Adversarial Networks  | [Slides](assets/tutorials/tut10_gans.pdf) | 
 | **Lecture&nbsp;11** | Mar 29  | Q-learning & the Game of Go |  | 
 | *Tutorial&nbsp;11* | Mar 29  | Policy Gradient and Reinforcement Learning  |  | 
 | **Lecture&nbsp;12** | Apr 05  | Recent Trends in Deep Learning | |  

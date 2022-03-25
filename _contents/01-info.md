@@ -12,8 +12,8 @@ image: ""
 **Teaching staff:**  
 
 * Instructor and office hours: 
-  * [Jimmy Ba](http://jimmylba.github.com), Tues 3-4
-  * [Bo Wang](https://wanglab.ml/),  Thurs 3-4
+  * [Jimmy Ba](http://jimmylba.github.com), Tues 3-4pm
+  * [Bo Wang](https://wanglab.ml/),  Thurs 12-1pm
 
 * Head TA: Harris Chan and John Giorgi
 

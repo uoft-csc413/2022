@@ -5,6 +5,7 @@ heading: Announcements
 subheading: Announcements&#58;
 image: ""
 ---
+  - **Mar 26**: Programming Assignment 4 [handout](assets/assignments/PA04.pdf) and the starter code ([a4_dcgan.ipynb](https://colab.research.google.com/github/uoft-csc413/2022/blob/master/assets/assignments/a4_dcgan.ipynb), [a4_GCN.ipynb](https://colab.research.google.com/github/uoft-csc413/2022/blob/master/assets/assignments/a4_GCN.ipynb) and [a4_dqn.ipynb](https://colab.research.google.com/github/uoft-csc413/2022/blob/master/assets/assignments/a4_dqn.ipynb)) are now online. Make sure you create a copy in your own Drive before making edits, or else the changes will not be saved.
   - **Mar 1**: Homework 4 [handout](assets/assignments/HW04.pdf) is released, due April 1st. 
   - **Mar 1**: Homework 3 [handout](assets/assignments/HW03.pdf) updated to Version 1.1.
   - **Feb 27**: Programming Assignment 3 [handout](assets/assignments/PA03.pdf) and the starter code ([nmt.ipynb](https://colab.research.google.com/github/uoft-csc413/2022/blob/master/assets/assignments/nmt.ipynb), [bert.ipynb](https://colab.research.google.com/github/uoft-csc413/2022/blob/master/assets/assignments/bert.ipynb) and [clip.ipynb](https://colab.research.google.com/github/uoft-csc413/2022/blob/master/assets/assignments/clip.ipynb)) are now online. Make sure you create a copy in your own Drive before making edits, or else the changes will not be saved.

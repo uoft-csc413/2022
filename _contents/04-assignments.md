@@ -16,7 +16,7 @@ image: ""
 | **Programming Assignment 3**   | [nmt.ipynb](https://colab.research.google.com/github/uoft-csc413/2022/blob/master/assets/assignments/nmt.ipynb) (make a copy in your own Drive), [bert.ipynb](https://colab.research.google.com/github/uoft-csc413/2022/blob/master/assets/assignments/bert.ipynb), [clip.ipynb](https://colab.research.google.com/github/uoft-csc413/2022/blob/master/assets/assignments/clip.ipynb), [pdf](assets/assignments/PA03.pdf) | Feb. 26(out), due Mar. 18
 | **Homework 4**  | [pdf](assets/assignments/HW04.pdf)   | Mar. 19(out), due Apr. 01
 | **Programming Assignment 4**   | [a4_dcgan.ipynb](https://colab.research.google.com/github/uoft-csc413/2022/blob/master/assets/assignments/a4_dcgan.ipynb), [a4_GCN.ipynb](https://colab.research.google.com/github/uoft-csc413/2022/blob/master/assets/assignments/a4_GCN.ipynb), [a4_dqn.ipynb](https://colab.research.google.com/github/uoft-csc413/2022/blob/master/assets/assignments/a4_dqn.ipynb) (make a copy in your own Drive), [pdf](assets/assignments/PA04.pdf) | Mar. 26(out), due Apr. 08
-| **Course Project**   | [handout](assets/misc/project_handout.pdf)      | due Apr. 15
+| **Course Project**   | [handout](assets/misc/project_handout.pdf)      | ~~due Apr. 15~~ due Apr. 20
 
 <br/> 
 
